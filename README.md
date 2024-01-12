@@ -2,4 +2,5 @@
 
 Création d'une plateforme appelée Santefy située dans le cloud, accessible à tous les pharmaciens pour la location et l'utilisation via la méthode du dropshipping.
 
-![image](https://github.com/eya16/PfeSantefy/assets/49093498/9ff2ccd7-47c4-4a0c-a9d0-9a585183572d)
+![image](https://github.com/eya16/PfeSantefy/assets/49093498/451a035e-4c50-4278-ae49-b94df0e9afc5)
+
